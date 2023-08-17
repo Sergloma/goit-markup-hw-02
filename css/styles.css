@@ -63,18 +63,18 @@ ol {
   text-decoration: none;
 }
 .contacts-links .link {
-  color: #434455; /* Колір посилання */
-  text-decoration: none; /* Відсутність підкреслення */
+  color: #434455; /* Колір лінку */
+  text-decoration: none; /* Відсутність лінка */
 }
 
-/* Стилі для посилання при наведенні курсора */
+/* Стилі для  курсора */
 .contacts-links .link:hover {
-  color: #404bbf; /* Новий колір при наведенні */
+  color: #404bbf; /* колір при наведенні */
 }
 
-/* Стилі для посилання при фокусі (наприклад, клавішною Tab) */
+/* Стилі  при фокусі клавішною Tab */
 .contacts-links .link:focus {
-  color: #404bbf; /* Новий колір при фокусі */
+  color: #404bbf; /*  колір при фокусі */
 }
 .hero-blok {
   background: #2e2f42;
