@@ -109,10 +109,9 @@ subject {
   color: var(--navyblue, #2e2f42);
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.11em;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  text-align: center;
+  line-height: 1.11px;
+  letter-spacing: 0.03em;
+ 
 }
 .title {
   color: var(--navyblue, #2e2f42);
